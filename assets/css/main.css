@@ -1997,8 +1997,8 @@ input, select, textarea {
 			#header header h1 {
 				font-weight: 600;
 				font-size: 2em;
-				letter-spacing: 10px;
-			}
+				letter-spacing: 10px; 
+			  }
 
 			#header header p {
 				border-top: solid 1px rgba(255, 255, 255, 0.5);
@@ -2075,14 +2075,14 @@ input, select, textarea {
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url("images/banner.svg") bottom center no-repeat;
+		background: #35b882 url("http://i67.tinypic.com/2uidrfc.jpg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
 	}
 
 		#banner .button {
-			color: #35b882;
+			color: #152e33 ;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 		}
 
